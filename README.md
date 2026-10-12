@@ -3,11 +3,11 @@
 ## Programın Amacı
 Bu program, bir kasada müşterinin ödediği tutardan ürünün fiyatını çıkararak verilecek para üstünü hesaplamak ve bu para üstünü en az sayıda banknot/madeni para (küpür) ile müşteriye teslim edebilmek için kodlanmıştır.
 
-## Geliştirme Süreci ve Kullanılan Araçlar
-Geliştirme sürecinde aşağıdaki araçlardan yararlanılmıştır:
+## Kullanılan Araçlar ve Dil
+Ödev sürecinde aşağıdaki araçlardan ve programlama dilinden yararlanılmıştır:
 * **C Programlama Dili:** Kodun yazıldığı dildir.
 * **Git ve GitHub:** Ödevin teslim edilmesi için kullanılmıştır.
-* **GCC Derleyicisi:** Kodun Windows ortamında (MSYS2/MinGW) derlenmesi için kullanıldı.
+* **GCC Derleyicisi:** Kodun Windows ortamında (MSYS2/MinGW) derlenmesi için kullanılmıştır.
 
 ## Algoritma Detayları ve Kısıtlamalar
 Ders kapsamında henüz koşul (if/else) ve döngü (for/while) yapıları işlenmediği için, algoritma tamamen doğrusal (linear) bir yapıda kurgulanmıştır.
