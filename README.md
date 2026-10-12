@@ -6,8 +6,8 @@ Bu program, bir kasada müşterinin ödediği tutardan ürünün fiyatını çı
 ## Geliştirme Süreci ve Kullanılan Araçlar
 Geliştirme sürecinde aşağıdaki araçlardan yararlanılmıştır:
 * **C Programlama Dili:** Kodun yazıldığı dildir.
-* **Git ve GitHub:** Ödevin teslim süreci için.
-* **GCC Derleyicisi:** Kodun Windows ortamında (MSYS2/MinGW) derlenip test edilmesi için.
+* **Git ve GitHub:** Ödevin teslim edilmesi için kullanılmıştır.
+* **GCC Derleyicisi:** Kodun Windows ortamında (MSYS2/MinGW) derlenmesi için kullanıldı.
 
 ## Algoritma Detayları ve Kısıtlamalar
 Ders kapsamında henüz koşul (if/else) ve döngü (for/while) yapıları işlenmediği için, algoritma tamamen doğrusal (linear) bir yapıda kurgulanmıştır.
