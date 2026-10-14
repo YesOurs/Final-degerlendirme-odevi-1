@@ -10,7 +10,7 @@ Bu program, bir kasada müşterinin ödediği tutardan ürünün fiyatını çı
 * **GCC Derleyicisi:** Kodun Windows ortamında (MSYS2/MinGW) derlenmesi için kullanılmıştır.
 
 ## Algoritma Detayları ve Kısıtlamalar
-Ders kapsamında henüz koşul (if/else) ve döngü (for/while) yapıları işlenmediği için, algoritma tamamen doğrusal (linear) bir yapıda kurgulanmıştır.
+Ders kapsamında henüz koşul (if/else) ve döngü (for/while) yapıları işlenmediği için, algoritma tamamen doğrusal (lineer) bir yapıda kurgulanmıştır.
 * Ondalıklı sayıların (float) bellekte tutulmasından kaynaklı kuruş hassasiyeti kaybını önlemek amacıyla, değere matematiksel olarak `+ 0.5` eklenip tam sayıya çevrilerek manuel yuvarlama yapılmıştır.
 * Her bir küpürün (200 TL, 100 TL, 1 TL, 50 Kuruş vb.) hesaplanması, ardışık tam sayı bölmesi (`/`) ve kalanın bir sonraki adıma aktarılması için mod (`%`) operatörleri kullanılarak gerçekleştirilmiştir.
 
